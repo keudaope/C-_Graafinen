@@ -1,0 +1,17 @@
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\bin\Debug\net6.0-windows\Tehtävä1.exe
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\bin\Debug\net6.0-windows\Tehtävä1.deps.json
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\bin\Debug\net6.0-windows\Tehtävä1.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\bin\Debug\net6.0-windows\Tehtävä1.dll
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\bin\Debug\net6.0-windows\Tehtävä1.pdb
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.Harjoitus1.resources
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.csproj.GenerateResource.cache
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.dll
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\refint\Tehtävä1.dll
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.pdb
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\Tehtävä1.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\C-_Graafinen\Tehtävä1\Tehtävä1\obj\Debug\net6.0-windows\ref\Tehtävä1.dll
